@@ -5,6 +5,7 @@ import java.sql.*;
 public class JDBC {
 
 	static String DriverClassName = "com.mysql.jdbc.Driver";
+	static String DriverClassName123 = "com.mysql.jdbc.Driver";
 	static String url = "jdbc:mysql://127.0.0.1:3306/shopping?characterEncoding=utf-8";
 	static String userName = "root";
 	static String password = "123456";
